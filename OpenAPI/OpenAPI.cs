@@ -1,4 +1,4 @@
-﻿// Copyright 2014 Akamai Technologies http://developer.akamai.com.
+﻿// Copyright 2024 Akamai Technologies http://developer.akamai.com.
 //
 // Licensed under the Apache License, KitVersion 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -12,7 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 //
-// Author: colinb@akamai.com  (Colin Bendell)
 //
 
 using Akamai.EdgeGrid.Auth;
@@ -31,8 +30,7 @@ namespace Akamai.EdgeGrid
     /// Command Line sample application to demonstrate the utilization of the {Open} APIs. 
     /// This can be used for both command line invocation or reference on how to leverage the 
     /// Api. All supported commands are implemented in this sample for convience.
-    /// 
-    /// Author: colinb@akamai.com  (Colin Bendell)
+    ///
     /// </summary>
     class OpenAPI
     {

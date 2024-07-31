@@ -1,4 +1,4 @@
-﻿// Copyright 2014 Akamai Technologies http://developer.akamai.com.
+﻿// Copyright 2024 Akamai Technologies http://developer.akamai.com.
 //
 // Licensed under the Apache License, KitVersion 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -12,7 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 //
-// Author: colinb@akamai.com  (Colin Bendell)
 //
 
 using System;
@@ -27,8 +26,7 @@ namespace Akamai.EdgeGrid.Auth
 {
     /// <summary>
     /// Interface describing a request signer that signs service requests.
-    /// 
-    /// Author: colinb@akamai.com  (Colin Bendell)
+    ///
     /// </summary>
     interface IRequestSigner
     {
