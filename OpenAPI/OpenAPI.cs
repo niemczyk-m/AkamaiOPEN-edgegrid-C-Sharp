@@ -184,7 +184,7 @@ Where:
     -H header-line  Http Header 'Name: value'
     -X method       force HTTP PUT,POST,DELETE 
     -T content-type the HTTP content type (default = application/json)
-    url             fully qualified api url such as https://akab-1234.luna.akamaiapis.net/diagnostic-tools/v1/locations       
+    url             fully qualified api url such as https://{your-host}.luna.akamaiapis.net/identity-management/v3/user-profile       
 
 ");
         }
